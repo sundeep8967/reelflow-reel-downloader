@@ -43,8 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Keystores and private signing credentials
-*.jks
-*.keystore
-**/key.properties
